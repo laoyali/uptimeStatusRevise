@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '凛空の小屋 服务器状态监控',
+  SiteName: 'Junket Network 服务监控',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,11 +24,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '晓空blog',
-      url: 'https://blog.moeworld.tech/'
+      text: '首页(未完成开发！）',
+      url: 'https://www.yltech.top/'
     },
     {
-      text: '关于',
+      text: '网盘站',
       url: 'https://about.moeworld.top/'
     }
   ]
